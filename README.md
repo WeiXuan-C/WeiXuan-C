@@ -8,7 +8,8 @@ I have completed my **Diploma in IT** and will soon pursue a **Degree in CS - Ma
 ---
 
 ## 🚀 Projects
-- 📚 [**Studify**](https://github.com/baifan1366/Studify) – a tutoring platform for students, developed during **Code Nection**, a hackathon organized by the MMU IT Society.  
+- 📚 [**Studify**](https://github.com/baifan1366/Studify) – a tutoring platform for students, developed during **Code Nection**, a hackathon organized by the MMU IT Society.
+- 🏗️ [**Team Sync**](https://github.com/baifan1366/project-management-system) – my **Diploma Final Year Project**, focusing on project and task management with team collaboration features.  
 
 ---
 
