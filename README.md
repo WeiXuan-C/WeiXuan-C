@@ -1,13 +1,22 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm a university student pursuing a diploma in IT and passionate about front-end and back-end development.
+🎓 IT Graduate | Incoming CS Undergraduate | Hackathon Enthusiast
 
-## 🚀 About Me
-- 🔭 Currently developing a **Project Management System** with my team
-- 🌍 Worked on **system design and testing** during my internship
-- 💡 Love problem-solving, UI enhancements, and API integrations
+I'm **Wei Xuan**, a developer passionate about building impactful web applications.  
+I have completed my **Diploma in IT** and will soon pursue a **Degree in CS - Major in Software Engineering** at Multimedia University.  
 
-## 📫 Contact Me
-- Email: [weixuan.chong@gmail.com](#)
+---
 
-Thanks for visiting my profile! 🚀
+## 🚀 Projects
+- 📚 [**Studify**](https://github.com/baifan1366/Studify) – a tutoring platform for students, developed during **Code Nection**, a hackathon organized by the MMU IT Society.  
+
+---
+
+## 📫 Get in Touch
+- 📧 [Email Me](mailto:weixuan.chong@gmail.com)  
+
+---
+
+## 📄 Resume
+👉 [View My Resume](#)  
+*(Link coming soon — will be uploaded to GitHub or shared via Google Drive.)*
