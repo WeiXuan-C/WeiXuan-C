@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 
 - 💡 Passionate about creating user-focused web and mobile apps.  
-- 🎓 Completed **Diploma in Information Technology**, soon pursuing **B.CompSc (Software Engineering)** at **Multimedia University (MMU)**.  
+- 🎓 Completed **D.IT**, soon pursuing **B.CS (Software Engineering)** at **Multimedia University (MMU)**.  
 - 🏆 Active participant in hackathons and innovation challenges.  
 - 📱 Currently exploring **Flutter**, **Supabase**, and **AI-integrated systems**.  
 
