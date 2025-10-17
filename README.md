@@ -80,19 +80,6 @@ My **Diploma Final Year Project**, a **project and task management system** desi
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=WeiXuan-C&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=WeiXuan-C&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeiXuan-C&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Get in Touch
 
 - 📧 [Email Me](mailto:weixuan.chong@gmail.com)  
