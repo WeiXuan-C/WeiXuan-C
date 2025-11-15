@@ -22,15 +22,14 @@
 ## 🚀 Featured Projects
 
 ### 📝 **BidSync**
-A project bidding and proposal system enabling teams to coordinate, draft, review, and submit proposals efficiently.
+A project bidding and proposal system that helps teams coordinate tasks, draft proposals, and submit them efficiently.  
 > 🏆 *“Sync, Collaborate, Win.”*
 🔗 [GitHub Repository](https://github.com/baifan1366/BidSync)
 
 ---
 
 ### 🛣️ **Pavra**
-An AI-powered road safety & condition app developed for **Mobile Apps Competition 8.0 (UNIMAS)**. 
-Leverages geolocation, AI analysis, and smart reporting to improve road maintenance and safety.
+A road safety and condition app using geolocation and smart reporting to improve road maintenance.  
 > 🧭 *“The Smarter Roads, The Safer Journeys.”*
 🔗 [GitHub Repository](https://github.com/WeiXuan-C/Pavra)
 
