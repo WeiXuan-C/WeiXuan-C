@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 Currently developing Pavra (AI road safety app) and BidSync (project bidding system)
+- 🚀 Currently developing life-drone
 - 🌱 Continuously exploring cloud services, scalable architectures, and AI tools
 - 🤖 Excited to combine AI, mobile, and web technologies to create impactful applications
 
